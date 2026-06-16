@@ -1,5 +1,7 @@
 # Orientation Mate for ComfyUI
 
+<img width="1189" height="860" alt="Orientation_Mate_01" src="https://github.com/user-attachments/assets/930e271f-e106-44f5-b54b-d6ccbebec7f5" />
+
 A simple scaling node for ComfyUI, allowing the changing of the length of the input's longest edge. This node is designed to streamline the process of preparing images for various tasks and control over your image dimensions.
 
 - **Author:** Darren Davies (aka dugdiamond)
