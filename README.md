@@ -1,11 +1,10 @@
 # Orientation Mate for ComfyUI
 
-<img width="1189" height="860" alt="Orientation_Mate_01" src="https://github.com/user-attachments/assets/930e271f-e106-44f5-b54b-d6ccbebec7f5" />
-
 A simple scaling node for ComfyUI, allowing the changing of the length of the input's longest edge. This node is designed to streamline the process of preparing images for various tasks and control over your image dimensions.
 
 - **Author:** Darren Davies (aka dugdiamond)
-- **GitHub:** https://github.com/dugdiamond6-afk
+- **GitHub:** https://github.com/o-l-l-i
+- **X:** https://x.com/Olmirad
 - **Version:** 1.0
 
 ---
@@ -33,18 +32,18 @@ Use it for:
 Clone this repository into your `custom_nodes` folder.
 
 ```bash
-git clone https://github.com/dugdiamond6-afk/ComfyUI-Orientation_Mate.git
+git clone https://github.com/o-l-l-i/ComfyUI-Olm-DragCrop.git
 ```
 
 Your folder should look like:
 
 ```bash
 ComfyUI/
---- custom_nodes/
------- ComfyUI-OrientationMate/
---------- __init__.py
---------- orientation_mate.py
---------- (other files)
+└── custom_nodes/
+    └── ComfyUI-OrientationMate/
+        ├── __init__.py
+        ├── orientation_mate.py
+        └── ... (other files)
 ```
 
 Restart ComfyUI to load the new node.
@@ -95,10 +94,10 @@ Redistribution, resale, rebranding, or claiming authorship of this code or exten
 
 Use at your own risk. No warranties or guarantees are provided.
 
-The only official repository for this project is: https://github.com/dugdiamond6-afk/ComfyUI-Orientation_Mate
+The only official repository for this project is: 👉 https://github.com/o-l-l-i/ComfyUI-Olm-DragCrop
 
 ---
 
 Author
 
-Created by https://github.com/dugdiamond6-afk
+Created by [@o-l-l-i](https://github.com/o-l-l-i)
