@@ -10,7 +10,7 @@ However:
 Redistribution, resale, rebranding, or claiming authorship of this code or extension is strictly prohibited without explicit written permission.
 Use at your own risk. No warranties or guarantees are provided.
 
-The only official repository for this project is: https://github.com/o-l-l-i/ComfyUI-Olm-DragCrop
+The only official repository for this project is: https://github.com/dugdiamond6-afk/ComfyUI-Orientation_Mate
 
 
 Why These Restrictions?
