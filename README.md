@@ -3,8 +3,7 @@
 A simple scaling node for ComfyUI, allowing the changing of the length of the input's longest edge. This node is designed to streamline the process of preparing images for various tasks and control over your image dimensions.
 
 - **Author:** Darren Davies (aka dugdiamond)
-- **GitHub:** https://github.com/o-l-l-i
-- **X:** https://x.com/Olmirad
+- **GitHub:** https://github.com/dugdiamond6-afk
 - **Version:** 1.0
 
 ---
@@ -32,7 +31,7 @@ Use it for:
 Clone this repository into your `custom_nodes` folder.
 
 ```bash
-git clone https://github.com/o-l-l-i/ComfyUI-Olm-DragCrop.git
+git clone https://github.com/dugdiamond6-afk/ComfyUI-Orientation_Mate.git
 ```
 
 Your folder should look like:
@@ -94,10 +93,10 @@ Redistribution, resale, rebranding, or claiming authorship of this code or exten
 
 Use at your own risk. No warranties or guarantees are provided.
 
-The only official repository for this project is: 👉 https://github.com/o-l-l-i/ComfyUI-Olm-DragCrop
+The only official repository for this project is: 👉 https://github.com/dugdiamond6-afk/ComfyUI-Orientation_Mate
 
 ---
 
 Author
 
-Created by [@o-l-l-i](https://github.com/o-l-l-i)
+Created by https://github.com/dugdiamond6-afk
