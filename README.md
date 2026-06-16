@@ -99,4 +99,4 @@ The only official repository for this project is: https://github.com/dugdiamond6
 
 Author
 
-Created by [@o-l-l-i](https://github.com/o-l-l-i)
+Created by https://github.com/dugdiamond6-afk
